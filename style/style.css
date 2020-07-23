@@ -1,0 +1,16 @@
+.bg{background-image:url(../images/1by1.jpg);}
+.foot_txt{font-family:tahoma; font-size:10px; color:#000000; font-weight:normal;}
+.slt_txt{font-family:tahoma; font-size:15px; color:#00CCFF ; font-weight:bold; text-decoration:none;}
+.slt_txt:hover{text-decoration:underline;}
+.nav_bg{background-image:url(../images/1by30.jpg);}
+.pad_L{padding-left:5px;}
+.bod{border:1px solid #55D7A6;}
+.bodB{border:1px solid #000000;}
+.txt_box{border:1px solid #000000; background-color:#00CCCC;}
+.maintxtB{font-family:tahoma; font-size:14px; color:#FFFFFF; font-weight:bold; text-decoration:none;}
+.maintxtB:hover{text-decoration:underline;}
+.lt_hide{display:none;}	
+.lt_show{display:table;}
+.lt_show1{display:table-cell;}
+.paddR{padding-right:5px;}
+.wel{font-family:tahoma; font-size:14px; color:	#FFFFFF; font-weight:bold; text-decoration:none}
